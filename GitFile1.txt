@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Contents4
+=======
+Contents7
+>>>>>>> branch1
